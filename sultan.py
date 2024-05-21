@@ -1,1 +1,1 @@
-print('tugas github')
+print('hello word')
