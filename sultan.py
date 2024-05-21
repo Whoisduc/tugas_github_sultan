@@ -1,1 +1,1 @@
-print('hello word')
+print('Sultan Muliya Pratama')
